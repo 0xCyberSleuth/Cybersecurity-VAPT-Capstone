@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 💡 *This project was completed during my Security Analyst internship at ES EthicSecur SofTec Pvt. Ltd (Mar–Apr 2025).*
+> 💡 *This project was completed during my Cybersecurity internship at YHills (Apr-Jun 2025).*
